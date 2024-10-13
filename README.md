@@ -1,5 +1,31 @@
 <h1 align="center">Hi 👋, I'm Arnab Mitra</h1>
-<h3 align="center">👨‍💻 Data Scientist | Machine Learning Enthusiast Welcome to my GitHub! I'm a Master's student in Data Science at Arizona State University, driven by a passion for leveraging data and technology to solve real-world challenges. With a background in Mechanical Engineering and over 1.5 years of professional experience, I specialize in building scalable machine learning solutions and optimizing cloud-based systems. 🔧 Tech Stack: ➡️ Programming Languages: Python, SQL ➡️ Machine Learning Frameworks: TensorFlow, Scikit-learn, PyTorch ➡️ Cloud Technologies: AWS (Lambda, S3), Azure (Data Factory, Application Insights) ➡️ Containerization: Docker ➡️ Data Management Tools: MLFlow, Data Version Control (DVC) ➡️ Database Management: MySQL, ETL processes ➡️ Data Visualization: Power BI, Excel 🚀 Key Projects: ➡️ Used Vehicle Price Predictor: Developed a price prediction tool leveraging regression models (R² score of 0.95) and Dockerized the application for scalable deployment. ➡️ Neural Style Transfer Web App: Created an interactive application that blends images using neural networks, optimized for performance with GPU support. 💡 Areas of Expertise: ➡️ Machine Learning & Deep Learning: Designing and optimizing models for diverse applications, including NLP and image processing. ➡️ Cloud Architecture & Data Engineering: Building and optimizing cloud-based data pipelines and infrastructures. ➡️ Automation & CI/CD: Developing end-to-end CI/CD pipelines for streamlined deployment and operational efficiency. 🌟 Let's Connect! I’m always looking to collaborate on exciting projects and explore innovative solutions. Feel free to check out my repositories, and don't hesitate to reach out if you’re interested in discussing data science, machine learning, or potential collaborations! 📧 Email: amitra27@asu.edu 🔗 LinkedIn: linkedin.com/in/arnab-mitra1</h3>
+# 👨‍💻 Arnab Mitra | Data Scientist | Machine Learning Enthusiast
+
+Welcome to my GitHub! I'm a Master's student in Data Science at Arizona State University, driven by a passion for leveraging data and technology to solve real-world challenges. With a background in Mechanical Engineering and over 1.5 years of professional experience, I specialize in building scalable machine learning solutions and optimizing cloud-based systems.
+
+## 🔧 Tech Stack:
+➡️ **Programming Languages:** Python, SQL  
+➡️ **Machine Learning Frameworks:** TensorFlow, Scikit-learn, PyTorch  
+➡️ **Cloud Technologies:** AWS (Lambda, S3), Azure (Data Factory, Application Insights)  
+➡️ **Containerization:** Docker  
+➡️ **Data Management Tools:** MLFlow, Data Version Control (DVC)  
+➡️ **Database Management:** MySQL, ETL processes  
+➡️ **Data Visualization:** Power BI, Excel  
+
+## 🚀 Key Projects:
+➡️ **Used Vehicle Price Predictor:** Developed a price prediction tool leveraging regression models (R² score of 0.95) and Dockerized the application for scalable deployment.  
+➡️ **Neural Style Transfer Web App:** Created an interactive application that blends images using neural networks, optimized for performance with GPU support.  
+
+## 💡 Areas of Expertise:
+➡️ **Machine Learning & Deep Learning:** Designing and optimizing models for diverse applications, including NLP and image processing.  
+➡️ **Cloud Architecture & Data Engineering:** Building and optimizing cloud-based data pipelines and infrastructures.  
+➡️ **Automation & CI/CD:** Developing end-to-end CI/CD pipelines for streamlined deployment and operational efficiency.  
+
+## 🌟 Let's Connect!
+I’m always looking to collaborate on exciting projects and explore innovative solutions. Feel free to check out my repositories, and don't hesitate to reach out if you’re interested in discussing data science, machine learning, or potential collaborations!
+
+📧 Email: [amitra27@asu.edu](mailto:amitra27@asu.edu)  
+🔗 LinkedIn: [linkedin.com/in/arnab-mitra1](https://linkedin.com/in/arnab-mitra1)  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnabmitra0408&label=Profile%20views&color=0e75b6&style=flat" alt="arnabmitra0408" /> </p>
 
