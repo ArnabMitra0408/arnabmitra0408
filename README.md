@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab Mitra</h1>
-# 👨‍💻 Arnab Mitra | Data Scientist | Machine Learning Enthusiast
+
+👨‍💻 Data Science and Data Analytics Specialist | Machine Learning & NLP Enthusiast | Python, SQL, TensorFlow, Pytorch | Cloud Solutions (AWS, Azure) | Building Scalable Data Pipelines & AI Models
 
 Welcome to my GitHub! I'm a Master's student in Data Science at Arizona State University, driven by a passion for leveraging data and technology to solve real-world challenges. With a background in Mechanical Engineering and over 1.5 years of professional experience, I specialize in building scalable machine learning solutions and optimizing cloud-based systems.
 
