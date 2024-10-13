@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arnab Mitra</h1>
+<h1 align="center">Hi 👋, I'm Arnab Mitra </h1>
 
 👨‍💻 Data Science and Data Analytics Specialist | Machine Learning & NLP Enthusiast | Python, SQL, TensorFlow, Pytorch | Cloud Solutions (AWS, Azure) | Building Scalable Data Pipelines & AI Models
 
