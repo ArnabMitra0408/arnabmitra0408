@@ -14,8 +14,9 @@ Welcome to my GitHub! I'm a Master's student in Data Science at Arizona State Un
 ➡️ **Data Visualization:** Power BI, Excel  
 
 ## 🚀 Key Projects:
-➡️ **Used Vehicle Price Predictor:** Developed a price prediction tool leveraging regression models (R² score of 0.95) and Dockerized the application for scalable deployment.  
-➡️ **Neural Style Transfer Web App:** Created an interactive application that blends images using neural networks, optimized for performance with GPU support.  
+➡️ **[Used Vehicle Price Predictor](https://github.com/ArnabMitra0408/Used-Car-Price-Prediction):** Developed a price prediction tool leveraging regression models (R² score of 0.95) and Dockerized the application for scalable deployment.  
+➡️ **[Neural Style Transfer](https://github.com/ArnabMitra0408/Neural-Style-Transfer):** Created an interactive application that blends images using neural networks, optimized for performance with GPU support.  
+ 
 
 ## 💡 Areas of Expertise:
 ➡️ **Machine Learning & Deep Learning:** Designing and optimizing models for diverse applications, including NLP and image processing.  
