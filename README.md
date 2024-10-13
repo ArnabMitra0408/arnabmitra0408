@@ -4,6 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
+<br></br>
 Welcome to my GitHub! I'm a Master's student in Data Science at Arizona State University, driven by a passion for leveraging data and technology to solve real-world challenges. With a background in Mechanical Engineering and over 1.5 years of professional experience, I specialize in building scalable machine learning solutions and optimizing cloud-based systems.
 
 ## 🔧 Tech Stack:
