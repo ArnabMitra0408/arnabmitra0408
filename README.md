@@ -2,6 +2,8 @@
 
 👨‍💻 Data Science and Data Analytics Specialist | Machine Learning & NLP Enthusiast | Python, SQL, TensorFlow, Pytorch | Cloud Solutions (AWS, Azure) | Building Scalable Data Pipelines & AI Models
 
+<img align="right" alt="Coding" width="400" src="https://gist.github.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a#file-programming-gif">
+
 Welcome to my GitHub! I'm a Master's student in Data Science at Arizona State University, driven by a passion for leveraging data and technology to solve real-world challenges. With a background in Mechanical Engineering and over 1.5 years of professional experience, I specialize in building scalable machine learning solutions and optimizing cloud-based systems.
 
 ## 🔧 Tech Stack:
@@ -34,8 +36,6 @@ I’m always looking to collaborate on exciting projects and explore innovative 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnabmitra0408" alt="arnabmitra0408" /></a> </p>
 
 - 💬 Ask me about **python, machine learning, deep learning, data science, NLP,**
-
-- 📫 How to reach me **amitra27@asu.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
